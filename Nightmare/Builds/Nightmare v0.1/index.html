@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity by Ishan | Nightmare</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.png">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/Nightmare v0.1.json", {onProgress: UnityProgress});
+
+      function hideCursor() {
+        document.body.style.cursor = "none";
+      }
+    </script>
+  </head>
+  <body style="background: rgb(10, 10, 10)" onload = "hideCursor()">
+    <div class="webgl-content">
+      <div id="unityContainer" style="width: 1400px; height: 650px"></div>
+      <div class="footer">
+        <a href="https://hackingtons.io/myShowcase/IshanM" target="_blank"><div class="webgl-logo"></div></a>
+        <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
+        <div class="title" style="font-family: monospace; color: rgb(0, 47, 255);">Nightmare</div>
+      </div>
+    </div>
+  </body>
+</html>
