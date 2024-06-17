@@ -1,10 +1,10 @@
- # $\textsf{\color{lime} Nightmare}$ $\text{ }$ $\text{ }$ [Play](https://nightmare-game.netlify.app/)
+ # $\textsf{\color{skyblue} Nightmare}$ $\text{ }$ $\text{ }$ [Play](https://nightmare-game.netlify.app/)
 
-## $\textsf{\color{purple} Description}$
+## $\textsf{\color{lightgreen} Description}$
 Step into a thrilling third-person shooter where you embody a courageous doll armed with an array of weapons. The nocturnal setting evokes an atmosphere of vigilance as you defend your sleeping owner from attacking toy monsters. Engage in dynamic combat scenarios against various monster types, each with distinct health levels, amidst eerie and immersive music that heightens the suspenseful ambiance. Navigate through challenging encounters, manage your health, and strategically utilize different weapons to overcome the relentless onslaught.
 
 
-## $\textsf{\color{purple} Features}$
+## $\textsf{\color{lightgreen} Features}$
 
 ### 1. Realistic Doll and Monster Animations
 - Experience fluid animations that bring dolls and toy monsters to life, enhancing immersion and engagement.
@@ -35,9 +35,9 @@ Step into a thrilling third-person shooter where you embody a courageous doll ar
 - Utilize the environment strategically to gain advantages in combat and evade enemy attacks.
 
 
-## $\textsf{\color{purple} Languages and Utilities Used}$
+## $\textsf{\color{lightgreen} Languages and Utilities Used}$
 - Unity
 - C#
 
-## $\textsf{\color{purple} Play Now}$
+## $\textsf{\color{lightgreen} Play Now}$
 [https://nightmare-game.netlify.app/](https://nightmare-game.netlify.app/)
